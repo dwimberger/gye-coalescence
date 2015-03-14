@@ -1,0 +1,2 @@
+A Java 5 based framework for coalescence based simulations and analysis of sample configurations.
+At the moment the main objective is to be able to simulate the evolution of microsatellite sequences (cSSRp's) and analyze generated sample configurations.
